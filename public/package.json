@@ -1,0 +1,17 @@
+{
+  "name": "ayurvedic-store",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Kawalesh/ayurvedic-store.git",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
